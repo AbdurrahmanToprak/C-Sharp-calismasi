@@ -1,0 +1,14 @@
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.AssemblyInfoInputs.cache
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.AssemblyInfo.cs
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.csproj.CoreCompileInputs.cache
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\refint\MerhabaC#.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.pdb
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\MerhabaC#.exe
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\MerhabaC#.deps.json
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\MerhabaC#.runtimeconfig.json
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\MerhabaC#.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\MerhabaC#.pdb
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.genruntimeconfig.cache
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\ref\MerhabaC#.dll
