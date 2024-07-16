@@ -14,6 +14,12 @@ else{
         Console.WriteLine("Siteye Giremezsiniz");
 
 }
+//dongu
+int sayi = 1;
+while(sayi <= 5 ){
+    Console.WriteLine(sayi);
+    sayi++;
+}
 
 //Kullanıcıdan isim ve yaş al ekrana yazdır
 string ad;

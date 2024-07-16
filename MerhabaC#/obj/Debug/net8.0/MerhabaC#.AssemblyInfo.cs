@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MerhabaC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0846a84de987474254021fbaf0f100cfc48cf872")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cae9eb9f74533efc5d5062e43e2453182ecc45c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MerhabaC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MerhabaC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
