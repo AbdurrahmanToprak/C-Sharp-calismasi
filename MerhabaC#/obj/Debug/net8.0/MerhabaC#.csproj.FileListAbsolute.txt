@@ -12,3 +12,4 @@ C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\Mer
 C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\bin\Debug\net8.0\MerhabaC#.pdb
 C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.genruntimeconfig.cache
 C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\ref\MerhabaC#.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\C# çalışma\MerhabaC#\obj\Debug\net8.0\MerhabaC#.sourcelink.json

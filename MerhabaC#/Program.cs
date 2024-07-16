@@ -1,4 +1,21 @@
-﻿//Kullanıcıdan isim ve yaş al ekrana yazdır
+﻿//karşılaştırma
+int yas1;
+
+Console.Write("Yasiniz: ");
+yas1 = Convert.ToInt32(Console.ReadLine());
+
+if(yas1 >=18){
+    Console.WriteLine("Siteye Girebilirsiniz");
+}
+else if(yas1 <= 0){
+    Console.WriteLine("Hatali deger!");
+}
+else{
+        Console.WriteLine("Siteye Giremezsiniz");
+
+}
+
+//Kullanıcıdan isim ve yaş al ekrana yazdır
 string ad;
 int yas;
 
@@ -27,3 +44,6 @@ Console.WriteLine(Math.Abs(4)); //0 a Uzaklık
 Console.WriteLine(Math.Round(4.3)); //Yuvarlama
 Console.WriteLine(Math.Min(4,3)); //min sayı
 Console.WriteLine(Math.Max(4,3)); //max sayı
+
+
+
